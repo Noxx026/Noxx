@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noxx026
+- 👋 Hi, I’m @Noxx
 - 👀 I’m interested in ... Coding and learning!
 - 🌱 I’m currently learning ... I.T and .bat files
 - 💞️ I’m looking to collaborate on ... nothing
